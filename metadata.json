@@ -1,0 +1,6 @@
+{
+  "name": "Meridian Exchange",
+  "description": "Premium landing page for the Meridian Exchange - Digital Sovereignty Resilience forum in Dubai, featuring Zenith Nexus branding, immersive Dubai Burj Khalifa aesthetics, and elegant purple brochure interactive layouts.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
